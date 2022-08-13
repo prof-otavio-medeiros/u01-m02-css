@@ -1,0 +1,10 @@
+.p-class {
+    border: none;
+    background-color: rgb(255, 0, 255);
+}
+#p-com-borda-pontilhada {
+    border: 1px dotted rgb(0, 255, 0);
+}
+p {
+    border: 1px solid rgb(255, 0, 0);
+}
